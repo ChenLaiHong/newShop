@@ -14,14 +14,6 @@
         AnnotationMethodHandlerExceptionResolver -> ExceptionHandlerExceptionResolver
         以上都在使用了annotation-driven后自动注册。
      -->
-    <!--<mvc:annotation-driven conversion-service="conversionService"/>-->
-
-    <!-- 转化器 -->
-    <!--<bean id="conversionService" class="org.springframework.format.support.FormattingConversionServiceFactoryBean">-->
-        <!--<property name="converters">-->
-            <!--<bean class="com.shenaibao.manage.user.converter.StringToDateConverter"/>-->
-        <!--</property>-->
-    <!--</bean>-->
 
     <mvc:default-servlet-handler/>
 
