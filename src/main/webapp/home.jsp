@@ -86,7 +86,7 @@
             <!--轮播 -->
             <div class="am-slider am-slider-default scoll" data-am-flexslider id="demo-slider-0">
                 <ul class="am-slides">
-                    <li class="banner1"><a href="introduction.html"><img src="${pageContext.request.contextPath}/static/images/ad5.jpg" /></a></li>
+                    <li class="banner1"><a href="introduction.jsp"><img src="${pageContext.request.contextPath}/static/images/ad5.jpg" /></a></li>
                     <li class="banner2"><a><img src="${pageContext.request.contextPath}/static/images/ad6.jpg" /></a></li>
                     <li class="banner3"><a><img src="${pageContext.request.contextPath}/static/images/ad7.jpg" /></a></li>
                     <li class="banner4"><a><img src="${pageContext.request.contextPath}/static/images/ad8.jpg" /></a></li>
@@ -973,7 +973,7 @@
         <!--小导航 -->
         <div class="am-g am-g-fixed smallnav">
             <div class="am-u-sm-3">
-                <a href="sort.html"><img src="${pageContext.request.contextPath}/static/images/navsmall.jpg" />
+                <a href="sort.jsp"><img src="${pageContext.request.contextPath}/static/images/navsmall.jpg" />
                     <div class="title">商品分类</div>
                 </a>
             </div>
@@ -2515,8 +2515,8 @@
 <!--引导 -->
 <div class="navCir">
     <li class="active"><a href="home2.html"><i class="am-icon-home "></i>首页</a></li>
-    <li><a href="sort.html"><i class="am-icon-list"></i>分类</a></li>
-    <li><a href="shopcart.html"><i class="am-icon-shopping-basket"></i>购物车</a></li>
+    <li><a href="sort.jsp"><i class="am-icon-list"></i>分类</a></li>
+    <li><a href="shopcart.jsp"><i class="am-icon-shopping-basket"></i>购物车</a></li>
     <li><a href="${pageContext.request.contextPath}/static/person/index.html"><i class="am-icon-user"></i>我的</a></li>
 </div>
 <!--菜单 -->
