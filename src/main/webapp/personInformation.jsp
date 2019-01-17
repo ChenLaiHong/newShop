@@ -78,6 +78,8 @@
 
                         <div class="am-form-group">
                             <label class="am-form-label">性别</label>
+                            <br>
+                            <br>
                             <div class="am-form-content sex">
                                 <label class="am-radio-inline">
                                     <input type="radio" name="radio10" value="male" data-am-ucheck> 男
@@ -90,11 +92,12 @@
                                 </label>
                             </div>
                         </div>
+                        <br>
 
                         <div class="am-form-group">
                             <label id="user-birth" class="am-form-label">生日</label>
                             <div class="am-form-content birth">
-                                <div class="birth-select">
+                                <div class="birth-select2">
                                     <select data-am-selected>
                                         <option value="a">2015</option>
                                         <option value="b">1987</option>
@@ -120,14 +123,12 @@
                             <label for="user-phone" class="am-form-label">电话</label>
                             <div class="am-form-content">
                                 <input id="user-phone" placeholder="telephonenumber" type="tel">
-
                             </div>
                         </div>
                         <div class="am-form-group">
-                            <label for="user-email" class="am-form-label">电子邮件</label>
+                            <label for="user-email" class="am-form-label">邮箱</label>
                             <div class="am-form-content">
                                 <input id="user-email" placeholder="Email" type="email">
-
                             </div>
                         </div>
                         <div class="am-form-group address">

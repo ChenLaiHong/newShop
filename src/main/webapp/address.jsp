@@ -136,15 +136,15 @@
                                 <div class="am-form-group">
                                     <label id="user-address" class="am-form-label">所在地</label>
                                     <div class="am-form-content address">
-                                        <select data-am-selected>
+                                        <select>
                                             <option value="a">浙江省</option>
                                             <option value="b" selected>湖北省</option>
                                         </select>
-                                        <select data-am-selected>
+                                        <select>
                                             <option value="a">温州市</option>
                                             <option value="b" selected>武汉市</option>
                                         </select>
-                                        <select data-am-selected>
+                                        <select>
                                             <option value="a">瑞安区</option>
                                             <option value="b" selected>洪山区</option>
                                         </select>
@@ -162,7 +162,7 @@
                                 <div class="am-form-group">
                                     <div class="am-u-sm-9 am-u-sm-push-3">
                                         <a class="am-btn am-btn-danger">保存</a>
-                                        <a href="javascript: void(0)" class="am-close am-btn am-btn-danger" data-am-modal-close>取消</a>
+                                        <a class="am-btn am-btn-danger">取消</a>
                                     </div>
                                 </div>
                             </form>
