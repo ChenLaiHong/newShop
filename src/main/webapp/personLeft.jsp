@@ -14,15 +14,7 @@
           content="width=device-width,height=device-height,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <title>用户左侧栏</title>
-    <link href="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/css/admin.css" rel="stylesheet"
-          type="text/css">
-    <link href="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/css/amazeui.css" rel="stylesheet"
-          type="text/css">
 
-    <link href="${pageContext.request.contextPath}/static/css/personal.css" rel="stylesheet" type="text/css">
-    <link href="${pageContext.request.contextPath}/static/css/orstyle.css" rel="stylesheet" type="text/css">
-    <script src="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/js/jquery.min.js"></script>
-    <script src="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/js/amazeui.js"></script>
 </head>
 <body>
 <aside class="menu">

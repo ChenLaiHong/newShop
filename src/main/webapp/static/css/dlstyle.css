@@ -11,8 +11,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -21,7 +21,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-    font-family: arial,"Lantinghei SC","Microsoft Yahei";	
+    font-family: arial,"Lantinghei SC","Microsoft Yahei";
 }
 
 html,body {
@@ -57,7 +57,7 @@ input:-webkit-autofill { -webkit-box-shadow: 0 0 0px 1000px #fff inset;}
 .partner{width: 100%;max-width:320px;margin:20px auto ;font-size:14px;}
 .partner h3{text-align: center;}
 .am-btn-group{display: block;overflow: hidden;}
-.am-btn-group li{width:33.333% ;display: block;float: left;}
+.am-btn-group li{width:28% ;display: block;float: left;}
 .am-btn-group i{margin:0px auto ;display: block;width: 42px;height: 42px;border-radius: 42px;line-height:42px ;padding-left: 10px;border:1px solid #eee ;background:#fff ;color: #0e90d2;}
 .am-btn-group span{display: none;}
 
@@ -82,7 +82,7 @@ margin-right: 0px;border-bottom: 1px solid #0e90d2;border-radius: 0px;}
 
 @media screen and (min-width:640px){
 form,.am-cf,.partner{max-width:640px;margin:20px auto ;}
-.footer-bd{ display:block;}	
+.footer-bd{ display:block;}
 .partner h3 {text-align:left;}
 .am-btn-group i { display:inline-block;border-radius:0px;border:0px;background-color:transparent ;}
 .am-btn-group span{display:inline-block;}
@@ -100,7 +100,7 @@ form,.am-cf,.partner{max-width:640px;margin:20px auto ;}
 
 .login-box,.login-box2 {width: 100%;max-width:360px;height: 430px;position: absolute;margin-top:20px;margin-left:0px;background:#f8f8f8;right:2%;padding:10px 20px;}
 .login-box2 {height:430px;}
-.login-boxtitle {max-width: 1000px;margin: 0px auto;height: 60px;}
+.login-boxtitle {max-width: 110px;margin: 0px auto;height: 60px;}
 .login-boxtitle img{height:60px;}
 .login-banner,.res-banner{width:100%;height:470px; background:#fd7a72;}
 .login-main,.res-main{max-width:1000px;height:470px; margin:0px auto; position:relative;}
@@ -109,7 +109,7 @@ form,.am-cf,.partner{max-width:640px;margin:20px auto ;}
 .login-boxtitle{display: block;}
 .zcnext{right: 20px;top: 15px;}
 /*背景*/
-.login-banner-bg{display:block;float:left;} 
+.login-banner-bg{display:block;float:left;}
 .am-btn-primary{width:100%;}
 
 /*修改的样式*/

@@ -8,21 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="target-densitydpi=device-dpi, width=480px, user-scalable=no">
-    <meta name="viewport"
-          content="width=device-width,height=device-height,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
 
     <title>顶部</title>
-    <link href="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/css/admin.css" rel="stylesheet"
-          type="text/css">
-    <link href="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/css/amazeui.css" rel="stylesheet"
-          type="text/css">
 
-    <link href="${pageContext.request.contextPath}/static/css/personal.css" rel="stylesheet" type="text/css">
-    <link href="${pageContext.request.contextPath}/static/css/orstyle.css" rel="stylesheet" type="text/css">
-    <script src="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/js/jquery.min.js"></script>
-    <script src="${pageContext.request.contextPath}/static/AmazeUI-2.4.2/assets/js/amazeui.js"></script>
 </head>
 <body>
 <!--头 -->
