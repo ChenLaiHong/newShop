@@ -22,7 +22,7 @@
         <ul class="message-l">
             <div class="topMessage">
                 <div class="menu-hd">
-                    <a href="${pageContext.request.contextPath}/login.jsp" target="_top" class="h">亲，请登录</a>
+                    <a href="${pageContext.request.contextPath}/qqlogin/login" target="_top" class="h">亲，请登录</a>
                     <a href="${pageContext.request.contextPath}/register.jsp" target="_top">免费注册</a>
                 </div>
             </div>
