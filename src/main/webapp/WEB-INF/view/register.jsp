@@ -113,7 +113,7 @@
         </div>
     </div>
 
-    <%@ include file="allFoot.jsp" %>
+    <%@ include file="../../allFoot.jsp" %>
 </div>
 </body>
 

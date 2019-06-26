@@ -97,7 +97,7 @@ public class QQLoginController {
             logger.error("跳转到回调地址失败:", e);
             return "fail";
         }
-        return "login";
+        return "home";
     }
 
 

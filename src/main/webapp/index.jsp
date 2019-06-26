@@ -3,12 +3,10 @@
 
 <html>
 <head>
-    <title >登录</title>
-
 </head>
 <body>
 
-<a href="${pageContext.request.contextPath}/admin/qqLogin">通过qq登录</a>
+<%response.sendRedirect("/toMain");%>
 </body>
 
 </html>
