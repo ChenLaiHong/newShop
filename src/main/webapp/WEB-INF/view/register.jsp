@@ -40,7 +40,6 @@
                 <div class="am-tabs-bd">
                     <div class="am-tab-panel am-active">
                         <form method="post">
-
                             <div class="user-email">
                                 <label for="email"><i class="am-icon-envelope-o"></i></label>
                                 <input type="email" name="" id="email" placeholder="请输入邮箱账号">
@@ -53,7 +52,6 @@
                                 <label for="passwordRepeat"><i class="am-icon-lock"></i></label>
                                 <input type="password" name="passwordRepeat" id="passwordRepeat1" placeholder="确认密码">
                             </div>
-
                         </form>
 
                         <div class="login-links">
@@ -64,7 +62,6 @@
                         <div class="am-cf">
                             <input type="submit" name="" value="注册" class="am-btn am-btn-primary am-btn-sm am-fl">
                         </div>
-
                     </div>
 
                     <div class="am-tab-panel">
